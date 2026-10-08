@@ -1,6 +1,7 @@
-### [Constraining modified gravity models through strong lensing cosmography](https://arxiv.org/pdf/2403.09910)
+### No Minimal Coupling Gravity
 
-The repository **CMGM_SLC** comprises two folders:
+The repository **NMCG** comprises two folders:
 
-- **Observational_data**: This folder contains a data file comprising a compilation of strong-lensing systems. For further information, please refer to the associated [paper](https://academic.oup.com/mnras/article/498/4/6013/5904771)
-- **Python**: This folder contains a Python script implementing the lensing equations and utilizing a Monte Carlo algorithm to constrain the model's free parameters with the provided data.
+**Data and Notebooks**: This folder contains Python and Mathematica scripts implementing the Non-Minimally Coupled Gravity Model. Mathematica notebooks are used for the theoretical analysis, while Python notebooks are used for numerical analysis and generating the main plots throughout the research. The **Data** subfolder contains the SLS and $\Lambda$CDM datasets analyzed in this work, along with data generated during the Mathematica and Python analyses.
+
+**Plots**: This folder contains the plots generated from the numerical and theoretical analysis of gravitational waves in the Non-Minimally Coupled Gravity Model.
